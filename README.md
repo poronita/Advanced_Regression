@@ -64,7 +64,7 @@ For the Python code, click [here](https://github.com/poronita/Advanced_Regressio
 
 ## <span style="color: #1E88E5;">Python Notebook</span>
 
-Full Code for the Analysis - [Click Here](#)
+Full Code for the Analysis - [Click Here](https://github.com/poronita/Advanced_Regression/blob/main/Advanced%20Regression%20Notebook.ipynb)
 
 ## <span style="color: #1E88E5;"> Acknowledgement </span>
 
