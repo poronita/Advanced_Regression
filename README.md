@@ -59,7 +59,8 @@ The exploration begins with doubling alpha values in ridge and lasso regression,
   - Utilization of Scikit-learn's Pipeline for streamlined and reproducible model building
 
 
-Detailed analysis can be found [here](https://github.com/poronita/Advanced_Regression/blob/main/Assignment_Analyis%20.pdf). For the Python code, click [here](https://github.com/poronita/Advanced_Regression/blob/main/Assignment%20Regression%20Part%202.ipynb).
+Detailed analysis can be found [here](https://github.com/poronita/Advanced_Regression/blob/main/Assignment_Analyis%20.pdf). <br>
+For the Python code, click [here](https://github.com/poronita/Advanced_Regression/blob/main/Assignment%20Regression%20Part%202.ipynb).
 
 ## <span style="color: #1E88E5;">Python Notebook</span>
 
