@@ -13,3 +13,7 @@ The pivotal questions guiding this endeavor include identifying the variables th
 <h4> Downloads </h4>
 
 <p>You can find the dataset <a href="https://ml-course3-upgrad.s3.amazonaws.com/Assignment_+Advanced+Regression/train.csv">here</a>.</p>
+
+<h4>Data Definition</h4>
+<p>The details of the various variables are given in the file below.</p>
+<a href="https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt"> Here </a>
