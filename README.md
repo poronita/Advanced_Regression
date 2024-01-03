@@ -19,4 +19,5 @@ The pivotal questions guiding this endeavor include identifying the variables th
 
 <h4> Analysis </h4>
 <p> Navigating regression intricacies, the exploration begins with Question 1, probing the consequences of doubling alpha values in ridge and lasso regression. The focus is on potential shifts in model dynamics and predictor variable importance. Question 2 delves into the decision-making process between ridge and lasso, emphasizing optimal lambda values. In Question 3, the challenge arises of constructing models without five crucial lasso-identified predictors. Finally, Question 4 prompts reflection on ensuring model robustness and generalizability, underscoring their pivotal role and implications for predictive accuracy in the complex landscape of regression analysis. </p>
-<p>You can find the detailed analysis < a href = "https://github.com/poronita/Advanced_Regression/blob/main/Assignment_Analyis%20.pdf"> here </a> </p>
+<p>You can find the detailed analysis <a href="https://github.com/poronita/Advanced_Regression/blob/main/Assignment_Analyis%20.pdf">here</a> </p>
+
