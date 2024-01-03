@@ -24,4 +24,4 @@ The pivotal questions guiding this endeavor include identifying the variables th
 <p> Above mentioned code is for the reference in the full code you can paste it and get an answers. </p>
 
 <h4> Python Notebook </h4>
-<p> Click <a href=""> Here </a> </p>
+<p> Full Code for the Analysis <a href=""> Click Here </a> for the Complete Implementation </p>
