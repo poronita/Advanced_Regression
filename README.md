@@ -17,7 +17,7 @@ The pivotal questions guiding this endeavor include identifying the variables th
 <h4>Data Definition</h4>
 <p>The details of the various variables are given in the file <a href="https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt"> Here </a> </p>
 
-<h4> Analysis </h4>
+<h3> Analysis </h3>
 <p> Navigating regression intricacies, the exploration begins with Question 1, probing the consequences of doubling alpha values in ridge and lasso regression. The focus is on potential shifts in model dynamics and predictor variable importance. Question 2 delves into the decision-making process between ridge and lasso, emphasizing optimal lambda values. In Question 3, the challenge arises of constructing models without five crucial lasso-identified predictors. Finally, Question 4 prompts reflection on ensuring model robustness and generalizability, underscoring their pivotal role and implications for predictive accuracy in the complex landscape of regression analysis. </p>
 <p>You can find the detailed analysis <a href="https://github.com/poronita/Advanced_Regression/blob/main/Assignment_Analyis%20.pdf">here</a> </p>
 <p> Click <a href="https://github.com/poronita/Advanced_Regression/blob/main/Assignment%20Regression%20Part%202.ipynb"> Here </a> for Python code </p>
