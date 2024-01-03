@@ -1,27 +1,29 @@
-# Advanced Regression
+# Advanced Regression Analysis
 
-<h3> Introduction </h3>
-<p> Surprise Housing, a US-based real estate company, is poised to make a strategic foray into the Australian market, employing data analytics to identify lucrative investment opportunities. With a keen focus on maximizing returns, the company has curated a comprehensive dataset from Australian property sales, encapsulated in a CSV file. The objective is to construct a robust regression model, utilizing regularization techniques, to predict the true value of potential properties. This predictive model not only aids in decision-making for property acquisitions but also sheds light on the significant variables influencing house prices.
+## Introduction
 
-<br>
+Surprise Housing, a US-based real estate company, is venturing into the Australian market using data analytics to identify lucrative investment opportunities. This comprehensive dataset from Australian property sales is utilized to construct a robust regression model. The goal is to predict the true value of potential properties, aiding in decision-making for property acquisitions and understanding variables influencing house prices.
 
-The pivotal questions guiding this endeavor include identifying the variables that wield substantial predictive power over house prices and evaluating the overall efficacy of these variables in describing property values. Furthermore, the quest for an optimal lambda value in both ridge and lasso regression becomes crucial, as it directly impacts the model's ability to strike the delicate balance between accuracy and simplicity. Through this data-driven approach, Surprise Housing aims to make informed investment decisions, strategically navigating the Australian real estate landscape for optimal financial gains. </p>
+The key questions guiding this analysis include identifying influential predictive variables and determining optimal lambda values for ridge and lasso regression. This data-driven approach empowers Surprise Housing to make informed investment decisions in the Australian real estate market.
 
-<h3> Business Goal </h3>
-<p> The primary business goal is to develop a predictive model for house prices, utilizing available independent variables. The resulting model is intended to provide the management with insights into the nuanced relationship between house prices and various factors. By understanding how prices vary with these variables, the management can strategically manipulate the firm's strategy, directing efforts towards areas forecasted to yield high returns. Additionally, the model serves as a valuable tool for comprehending pricing dynamics in a new market, enabling the management to adapt and tailor strategies effectively. Ultimately, this data-driven approach empowers the company to make informed decisions, optimize its investment strategy, and navigate the complexities of the real estate market for enhanced financial success. </p>
+## Business Goal
 
-<h4> Downloads </h4>
+Develop a predictive model for house prices to provide insights into the relationship between prices and various factors. This model assists in strategic decision-making, optimizing investment strategy, and navigating the complexities of the real estate market.
 
-<p>You can find the dataset <a href="https://ml-course3-upgrad.s3.amazonaws.com/Assignment_+Advanced+Regression/train.csv">here</a>.</p>
+## Downloads
 
-<h4>Data Definition</h4>
-<p>The details of the various variables are given in the file <a href="https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt"> Here </a> </p>
+- [Dataset](https://ml-course3-upgrad.s3.amazonaws.com/Assignment_+Advanced+Regression/train.csv)
 
-<h3> Analysis </h3>
-<p> Navigating regression intricacies, the exploration begins with Question 1, probing the consequences of doubling alpha values in ridge and lasso regression. The focus is on potential shifts in model dynamics and predictor variable importance. Question 2 delves into the decision-making process between ridge and lasso, emphasizing optimal lambda values. In Question 3, the challenge arises of constructing models without five crucial lasso-identified predictors. Finally, Question 4 prompts reflection on ensuring model robustness and generalizability, underscoring their pivotal role and implications for predictive accuracy in the complex landscape of regression analysis. </p>
-<p>You can find the detailed analysis <a href="https://github.com/poronita/Advanced_Regression/blob/main/Assignment_Analyis%20.pdf">here</a> </p>
-<p> Click <a href="https://github.com/poronita/Advanced_Regression/blob/main/Assignment%20Regression%20Part%202.ipynb"> Here </a> for Python code </p>
-<p> Above mentioned code is for the reference in the full code you can paste it and get an answers. </p>
+## Data Definition
 
-<h4> Python Notebook </h4>
-<p> Full Code for the Analysis - <a href=""> Click Here </a> for the Complete Implementation </p>
+Details of variables are provided in the [data description file](https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt).
+
+## Analysis
+
+The exploration begins with doubling alpha values in ridge and lasso regression, investigating shifts in model dynamics and predictor variable importance. The decision-making process between ridge and lasso, optimal lambda values, constructing models without crucial predictors, and ensuring model robustness and generalizability are addressed.
+
+Detailed analysis can be found [here](https://github.com/poronita/Advanced_Regression/blob/main/Assignment_Analyis%20.pdf). For the Python code, click [here](https://github.com/poronita/Advanced_Regression/blob/main/Assignment%20Regression%20Part%202.ipynb).
+
+## Python Notebook
+
+Full Code for the Analysis - [Click Here](#)
