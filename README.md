@@ -64,3 +64,8 @@ Detailed analysis can be found [here](https://github.com/poronita/Advanced_Regre
 ## <span style="color: #1E88E5;">Python Notebook</span>
 
 Full Code for the Analysis - [Click Here](#)
+
+## <span style="color: #1E88E5;"> Acknowledgement </span>
+
+The data used in this analysis was generously provided by Upgrade Academy. I extend my sincere gratitude to the dedicated faculty members at Upgrade Academy for their invaluable support and guidance throughout the analysis process. Their expertise and commitment significantly contributed to the success of this project.
+
