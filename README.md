@@ -22,41 +22,42 @@ Details of variables are provided in the [data description file](https://cdn.upg
 
 The exploration begins with doubling alpha values in ridge and lasso regression, investigating shifts in model dynamics and predictor variable importance. The decision-making process between ridge and lasso, optimal lambda values, constructing models without crucial predictors, and ensuring model robustness and generalizability are addressed.
 
-## Technologies Used
+### Technologies Used
 
-### Programming Languages
-- Python
+- **Programming Languages:**
+  - Python
 
-### Libraries and Frameworks
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+- **Libraries and Frameworks:**
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Scikit-learn
 
-### Data Handling
-- Data loading using Pandas
-- Handling missing values with SimpleImputer
-- Scaling numerical features with StandardScaler
+- **Data Handling:**
+  - Data loading using Pandas
+  - Handling missing values with SimpleImputer
+  - Scaling numerical features with StandardScaler
 
-### Data Visualization
-- Matplotlib and Seaborn for creating various plots and visualizations
+- **Data Visualization:**
+  - Matplotlib and Seaborn for creating various plots and visualizations
 
-### Machine Learning Models
-- Ridge and Lasso regression models implemented using Scikit-learn
+- **Machine Learning Models:**
+  - Ridge and Lasso regression models implemented using Scikit-learn
 
-### Model Evaluation
-- Metrics such as Mean Squared Error (MSE), R-squared (R²), and Mean Absolute Error (MAE) for evaluating model performance
+- **Model Evaluation:**
+  - Metrics such as Mean Squared Error (MSE), R-squared (R²), and Mean Absolute Error (MAE) for evaluating model performance
 
-### Data Preprocessing
-- OneHotEncoder for handling categorical variables
-- GridSearchCV for hyperparameter tuning
+- **Data Preprocessing:**
+  - OneHotEncoder for handling categorical variables
+  - GridSearchCV for hyperparameter tuning
 
-### Data Analysis
-- Exploratory Data Analysis (EDA) techniques, including correlation matrix heatmap and box plots
+- **Data Analysis:**
+  - Exploratory Data Analysis (EDA) techniques, including correlation matrix heatmap and box plots
 
-### Data Pipeline
-- Utilization of Scikit-learn's Pipeline for streamlined and reproducible model building
+- **Data Pipeline:**
+  - Utilization of Scikit-learn's Pipeline for streamlined and reproducible model building
+
 
 Detailed analysis can be found [here](https://github.com/poronita/Advanced_Regression/blob/main/Assignment_Analyis%20.pdf). For the Python code, click [here](https://github.com/poronita/Advanced_Regression/blob/main/Assignment%20Regression%20Part%202.ipynb).
 
